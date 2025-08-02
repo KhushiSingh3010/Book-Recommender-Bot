@@ -5,8 +5,8 @@ Screenshot:
 ![image alt](https://github.com/KhushiSingh3010/Book-Recommender-Bot/blob/main/BookBot.png)
 
 🚀 Live Demo
-🔗 [Add your live site link here if deployed]
-Example: https://yourusername.github.io/book-recommendation-chatbot
+🔗 [click here to view live demo]()
+
 
 💡 Features
 Book recommendations based on genres like:
