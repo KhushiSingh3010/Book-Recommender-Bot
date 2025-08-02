@@ -5,7 +5,7 @@ Screenshot:
 ![image alt](https://github.com/KhushiSingh3010/Book-Recommender-Bot/blob/main/BookBot.png)
 
 🚀 Live Demo
-🔗 [click here to view live demo]()
+🔗 [click here to view live demo](https://khushisingh3010.github.io/BookBot/)
 
 
 💡 Features
