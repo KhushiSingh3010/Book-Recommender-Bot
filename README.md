@@ -67,5 +67,6 @@ This project is licensed under the MIT License.
 IBM Watson Assistant
 
 UI inspired by common chat app layouts
+
 Author:Khushi Singh
 
